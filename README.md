@@ -87,7 +87,7 @@ Unauthorized use is **illegal** and violates most jurisdictions' cybercrime laws
 
 For queries or ethical collaboration:
 
-- 📧 Email: [22bq1a4720@gmail.com.net](mailto:22bq1a4720@gmail.com.net)
+- 📧 Email: [22bq1a4720@gmail.com](mailto:22bq1a4720@gmail.com)
 - 🌐 GitHub: [@CEHCVKR](https://github.com/CEHCVKR)
 - 💼 LinkedIn: [@cvkr](https://linkedin.com/in/cvkr)
 

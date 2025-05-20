@@ -60,7 +60,7 @@ sudo python3 main.py
 
 | File             | Description                                         |
 |------------------|-----------------------------------------------------|
-| `deauth_tool.py` | Main script that performs scanning and attacks     |
+| `main.py` | Main script that performs scanning and attacks     |
 | `README.md`      | Documentation (you're reading it)                  |
 
 ---
